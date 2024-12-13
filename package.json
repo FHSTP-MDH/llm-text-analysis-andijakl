@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^5.0.1",
+    "openai": "^4.76.2",
     "socket.io": "^4.8.1"
   }
 }
